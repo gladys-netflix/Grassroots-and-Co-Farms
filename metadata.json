@@ -1,0 +1,6 @@
+{
+  "name": "Grassroots & Co. Farms",
+  "description": "Rooted consciously. 7-hectare family-owned organic farm in Balas, Bacolor, Pampanga cultivating fresh arugula, lettuce, cherry tomatoes, basil, beets, and mulberries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

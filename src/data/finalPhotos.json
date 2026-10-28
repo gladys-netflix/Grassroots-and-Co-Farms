@@ -1,0 +1,59 @@
+{
+  "heroSlides": [
+    {
+      "id": "slide-arugula-shelter",
+      "url": "/assets/aistudio/IMG_6873_ae3149b1.jpg",
+      "title": "Grassroots Rain Shelter · Wild Arugula Rows",
+      "subtitle": "Balas, Bacolor, Pampanga · 7 Hectares Living Soil",
+      "isCustom": true,
+      "uploadedAt": 1729513800000
+    },
+    {
+      "id": "slide-arugula-rosette",
+      "url": "/assets/aistudio/IMG_6865_97b47eb3.jpg",
+      "title": "Signature Baby Wild Arugula in Living Soil",
+      "subtitle": "Harvested Daily at Dawn · Delivered Same-Day",
+      "isCustom": true,
+      "uploadedAt": 1729513800000
+    }
+  ],
+  "productPhotos": {
+    "prod-arugula-baby": "/assets/aistudio/IMG_6865_97b47eb3.jpg",
+    "prod-arugula-regular": "/assets/aistudio/IMG_6873_ae3149b1.jpg",
+    "prod-kaffir-lime": "/assets/aistudio/kaffir-lime-plant_d3ddbc0f.jpg",
+    "prod-kale-tuscan": "/assets/aistudio/images__4__013b4366.jpg",
+    "prod-lemon-grass": "/assets/aistudio/Lemongrass_8efa979c.jpg",
+    "prod-japanese-cucumber": "/assets/aistudio/images__5__b9cfc8fe.jpg",
+    "prod-tomato-native": "/assets/aistudio/Tomato-Farming-in-Philippines5-1024x681_e994c580.jpg",
+    "prod-red-lady-papaya": "/assets/aistudio/images__6__a8cad822.jpg",
+    "prod-romaine-lettuce": "/assets/aistudio/romaine-lettuces-growing-in-garden-beds_87a8c2e3.jpg",
+    "prod-brown-eggs-tray": "/assets/aistudio/large_d7a66f90.jpg",
+    "arugula-baby": "/assets/aistudio/IMG_6865_97b47eb3.jpg",
+    "arugula-regular": "/assets/aistudio/IMG_6873_ae3149b1.jpg",
+    "kaffir-lime": "/assets/aistudio/kaffir-lime-plant_d3ddbc0f.jpg",
+    "kale-tuscan": "/assets/aistudio/images__4__013b4366.jpg",
+    "kale": "/assets/aistudio/images__4__013b4366.jpg",
+    "lemon-grass": "/assets/aistudio/Lemongrass_8efa979c.jpg",
+    "lemongrass": "/assets/aistudio/Lemongrass_8efa979c.jpg",
+    "japanese-cucumber": "/assets/aistudio/images__5__b9cfc8fe.jpg",
+    "cucumber": "/assets/aistudio/images__5__b9cfc8fe.jpg",
+    "tomato-native": "/assets/aistudio/Tomato-Farming-in-Philippines5-1024x681_e994c580.jpg",
+    "native-tomatoes": "/assets/aistudio/Tomato-Farming-in-Philippines5-1024x681_e994c580.jpg",
+    "red-lady-papaya": "/assets/aistudio/images__6__a8cad822.jpg",
+    "papaya": "/assets/aistudio/images__6__a8cad822.jpg",
+    "romaine-lettuce": "/assets/aistudio/romaine-lettuces-growing-in-garden-beds_87a8c2e3.jpg",
+    "romaine": "/assets/aistudio/romaine-lettuces-growing-in-garden-beds_87a8c2e3.jpg",
+    "brown-eggs-tray": "/assets/aistudio/large_d7a66f90.jpg",
+    "brown-egg": "/assets/aistudio/large_d7a66f90.jpg",
+    "brown-eggs": "/assets/aistudio/large_d7a66f90.jpg",
+    "eggs": "/assets/aistudio/large_d7a66f90.jpg"
+  },
+  "portfolioPhotos": {
+    "rain-shelter": "/assets/aistudio/IMG_6873_ae3149b1.jpg",
+    "rainShelter": "/assets/aistudio/IMG_6873_ae3149b1.jpg",
+    "soil": "/assets/aistudio/IMG_6865_97b47eb3.jpg"
+  },
+  "boxPhotos": {},
+  "isLocked": true,
+  "finalizedAt": 1729513800000
+}
